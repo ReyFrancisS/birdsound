@@ -1,4 +1,4 @@
-<img width="438" height="933" alt="Screenshot 2026-06-01 174404" src="https://github.com/user-attachments/assets/38217b35-1acb-4078-9a7f-81cadcabf6b5" /># 🐦 Philippine Bird Sounds Repository
+Philippine Bird Sounds Repository
 
 A mobile application for exploring and identifying Philippine bird species through their sounds and visual characteristics.
 
